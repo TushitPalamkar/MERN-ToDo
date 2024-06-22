@@ -1,5 +1,5 @@
 import axios from 'axios'
-const baseurl='https://mern-todolist-backend-aef8.onrender.com'
+const baseurl='https://mern-todolist-backend-oy89.onrender.com'
 const getalltodo=(setalltodo)=>{
     axios.get(baseurl).then(({data})=>{
         console.log(data)
