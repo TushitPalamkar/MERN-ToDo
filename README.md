@@ -1,1 +1,3 @@
-https://coruscating-dolphin-a50e32.netlify.app
+https://mern-to-do-gray.vercel.app
+
+A MERN Stack To-Do List App made to understand the fundamentals of MERN
